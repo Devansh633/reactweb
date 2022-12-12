@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactweb/static/css/main.6322c567.css",
+    "main.js": "/reactweb/static/js/main.e490c185.js",
+    "static/media/video.mp4": "/reactweb/static/media/video.d16951c7f2c6148c2e2c.mp4",
+    "static/media/Light.svg": "/reactweb/static/media/Light.17ddea599e101e766009acddb840fce2.svg",
+    "static/media/Discover.svg": "/reactweb/static/media/Discover.bc67adffbc716a994799fb1199280a8a.svg",
+    "static/media/Comfort.svg": "/reactweb/static/media/Comfort.6e64f9cc2a92ddc4f86503668f4907e5.svg",
+    "static/media/Signup.svg": "/reactweb/static/media/Signup.9d5455b48d25068d4070ce54d5870f45.svg",
+    "static/media/About.svg": "/reactweb/static/media/About.3f89ca3d3b900a122665774d75891164.svg",
+    "static/media/Security.svg": "/reactweb/static/media/Security.f6a08dd7b4733be330cadf1f62b2f9d5.svg",
+    "index.html": "/reactweb/index.html",
+    "main.6322c567.css.map": "/reactweb/static/css/main.6322c567.css.map",
+    "main.e490c185.js.map": "/reactweb/static/js/main.e490c185.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6322c567.css",
+    "static/js/main.e490c185.js"
+  ]
+}
